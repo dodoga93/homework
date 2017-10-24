@@ -1,0 +1,8 @@
+// problem1.rs
+
+/// Functions are private (only available to this module) by default.
+/// Use the `pub` keyword to mark this function as public.
+pub fn sum(slice: &[i32]) -> i32 {
+    // ...
+    
+}

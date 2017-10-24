@@ -1,0 +1,11 @@
+[package]
+name = "bst"
+version = "0.1.0"
+authors = ["aminaitlamqade <ait.amin93@gmail.com>"]
+
+[dependencies]
+clippy = {version = "*", optional = true}
+
+[features]
+default = []
+
