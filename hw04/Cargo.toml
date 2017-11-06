@@ -1,7 +1,7 @@
 [package]
 name = "hw04"
 version = "0.1.0"
-authors = ["CIS 198 <cis198@cis.upenn.edu>"]
+authors = ["Amin Ait <ait.amin93@gmail.com>"]
 
 [dependencies]
 clippy = "0.0.168"
